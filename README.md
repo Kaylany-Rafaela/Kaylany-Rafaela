@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaylany Rafaela Martins de Paula
 - 👀 I’m interested in Data Science with emphasis on Statistics and Probability
 - 🌱 I’m currently learning Advanced techniques in statistics and probability, along with programming languages like R, Java, and Python
-- 📫 How to reach me E-mail: kpaula@alunos.utfpr.edu.br
+- 📫 How to reach me E-mail: kpaula@alunos.utfpr.edu.br or kaylanypaula8@outlook.com
 
 
 <!---
